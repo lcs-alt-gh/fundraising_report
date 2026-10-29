@@ -1,0 +1,206 @@
+appeal_id,segment_group,appeal_segment,audience_size,hard_cost,staff_hours,staff_cost,total_cost
+FY22-DM-ACQ,Acquisition (Rented List),Acquisition (Rented List),18000,16440.19,19.5,778.98,17219.17
+FY22-PO-FALL,Current Donors,Leadership - Current,30,27.84,24.4,977.76,1005.6
+FY22-DM-FALL,Current Donors,Current - Last Gift Under $100,619,1305.25,7.8,313.32,1618.57
+FY22-DM-FALL,Current Donors,Current - Last Gift $100-$499,333,710.98,4.4,177.79,888.77
+FY22-DM-FALL,Current Donors,"Current - Last Gift $500-$1,000",12,76.6,0.6,25.69,102.29
+FY22-EM-FALL,Lapsed Donors,Lapsed Donors,660,6.6,2.2,86.07,92.67
+FY22-EM-FALL,Current Donors,Current Donors,529,5.29,1.8,72.96,78.25
+FY22-EM-GT,Never Donors,Never Donors,1390,13.9,1.6,65.27,79.17
+FY22-EM-GT,Lapsed Donors,Lapsed Donors,593,5.93,1.0,39.31,45.24
+FY22-EM-GT,Current Donors,Current Donors,516,5.16,0.9,36.81,41.97
+FY22-SM-GT,General Public,General Public,,0.0,4.0,158.2,158.2
+FY22-DM-YE,Never Donors,Never Donors,1052,1540.19,3.9,156.72,1696.91
+FY22-DM-YE,Current Donors,Current - Last Gift Under $100,550,857.79,2.3,91.48,949.27
+FY22-DM-YE,Lapsed Donors,Lapsed 2-4 Yrs,487,736.09,2.1,83.29,819.38
+FY22-DM-YE,Current Donors,Current - Last Gift $100-$499,293,482.05,1.5,58.08,540.13
+FY22-DM-YE,Lapsed Donors,Lapsed 1 Yr - Last Gift Under $100,135,262.1,0.9,37.54,299.64
+FY22-DM-YE,Lapsed Donors,Lapsed 1 Yr - Last Gift $100+,109,221.74,0.9,34.17,255.91
+FY22-DM-YE,Current Donors,"Current - Last Gift $500-$1,000",10,106.48,0.5,21.3,127.78
+FY22-EM-YE,Never Donors,Never Donors,1387,13.87,1.6,65.13,79.0
+FY22-EM-YE,Lapsed Donors,Lapsed Donors,587,5.87,1.0,39.1,44.97
+FY22-EM-YE,Current Donors,Current Donors,506,5.06,0.9,36.47,41.53
+FY22-SM-YE,General Public,General Public,,0.0,4.6,184.26,184.26
+FY22-PO-SPR,Current Donors,Leadership - Current,16,15.86,11.1,442.69,458.55
+FY22-PO-SPR,Lapsed Donors,Leadership - Lapsed,11,8.28,6.9,275.27,283.55
+FY22-DM-SPR,Current Donors,Current - Last Gift Under $100,536,1016.47,7.6,303.81,1320.28
+FY22-DM-SPR,Current Donors,Current - Last Gift $100-$499,288,587.14,4.3,172.5,759.64
+FY22-DM-SPR,Current Donors,"Current - Last Gift $500-$1,000",10,89.45,0.6,25.29,114.74
+FY22-EM-SPR,Lapsed Donors,Lapsed Donors,577,5.77,1.9,75.7,81.47
+FY22-EM-SPR,Current Donors,Current Donors,504,5.04,1.7,68.65,73.69
+FY22-DM-FYE,Never Donors,Never Donors,1002,1552.34,5.0,201.66,1754.0
+FY22-DM-FYE,Current Donors,Current - Last Gift Under $100,525,839.26,2.9,115.18,954.44
+FY22-DM-FYE,Lapsed Donors,Lapsed 2-4 Yrs,425,710.71,2.4,97.05,807.76
+FY22-DM-FYE,Current Donors,Current - Last Gift $100-$499,282,489.38,1.8,71.12,560.5
+FY22-DM-FYE,Lapsed Donors,Lapsed 1 Yr - Last Gift Under $100,118,228.34,1.0,41.39,269.73
+FY22-DM-FYE,Lapsed Donors,Lapsed 1 Yr - Last Gift $100+,96,233.72,0.9,37.4,271.12
+FY22-DM-FYE,Current Donors,"Current - Last Gift $500-$1,000",10,93.87,0.5,21.81,115.68
+FY22-EM-FYE,Never Donors,Never Donors,1500,15.0,2.0,79.44,94.44
+FY22-EM-FYE,Lapsed Donors,Lapsed Donors,572,5.72,1.1,42.66,48.38
+FY22-EM-FYE,Current Donors,Current Donors,499,4.99,1.0,39.77,44.76
+FY22-SM-FYE,General Public,General Public,,0.0,4.6,182.45,182.45
+FY22-GEN,Unsolicited,General Annual Giving,,0.0,0.0,0.0,0.0
+FY23-DM-ACQ,Acquisition (Rented List),Acquisition (Rented List),18000,16515.26,16.6,662.12,17177.38
+FY23-PO-FALL,Current Donors,Leadership - Current,26,34.15,21.5,860.81,894.96
+FY23-DM-FALL,Current Donors,Current - Last Gift Under $100,533,1243.97,7.2,286.75,1530.72
+FY23-DM-FALL,Current Donors,Current - Last Gift $100-$499,270,644.31,3.9,155.13,799.44
+FY23-DM-FALL,Current Donors,"Current - Last Gift $500-$1,000",14,114.61,0.7,27.01,141.62
+FY23-EM-FALL,Lapsed Donors,Lapsed Donors,923,9.23,2.3,91.95,101.18
+FY23-EM-FALL,Current Donors,Current Donors,410,4.1,1.3,51.96,56.06
+FY23-EM-GT,Never Donors,Never Donors,1564,15.64,1.7,69.77,85.41
+FY23-EM-GT,Lapsed Donors,Lapsed Donors,807,8.07,1.1,45.68,53.75
+FY23-EM-GT,Current Donors,Current Donors,404,4.04,0.8,32.86,36.9
+FY23-SM-GT,General Public,General Public,,0.0,4.6,184.29,184.29
+FY23-DM-YE,Never Donors,Never Donors,1219,1741.67,3.9,157.99,1899.66
+FY23-DM-YE,Lapsed Donors,Lapsed 2-4 Yrs,507,775.18,1.9,77.39,852.57
+FY23-DM-YE,Current Donors,Current - Last Gift Under $100,482,741.62,1.9,74.56,816.18
+FY23-DM-YE,Lapsed Donors,Lapsed 1 Yr - Last Gift Under $100,286,492.89,1.3,52.38,545.27
+FY23-DM-YE,Current Donors,Current - Last Gift $100-$499,257,450.58,1.2,49.09,499.67
+FY23-DM-YE,Lapsed Donors,Lapsed 1 Yr - Last Gift $100+,128,248.13,0.9,34.49,282.62
+FY23-DM-YE,Current Donors,"Current - Last Gift $500-$1,000",13,75.59,0.5,21.47,97.06
+FY23-EM-YE,Never Donors,Never Donors,1571,15.71,2.1,84.57,100.28
+FY23-EM-YE,Lapsed Donors,Lapsed Donors,800,8.0,1.3,52.88,60.88
+FY23-EM-YE,Current Donors,Current Donors,400,4.0,0.9,36.44,40.44
+FY23-SM-YE,General Public,General Public,,0.0,3.1,123.24,123.24
+FY23-PO-SPR,Current Donors,Leadership - Current,9,5.34,7.8,312.5,317.84
+FY23-PO-SPR,Lapsed Donors,Leadership - Lapsed,9,6.27,7.3,290.2,296.47
+FY23-DM-SPR,Current Donors,Current - Last Gift Under $100,469,1039.91,7.4,297.77,1337.68
+FY23-DM-SPR,Current Donors,Current - Last Gift $100-$499,255,599.85,4.3,171.03,770.88
+FY23-DM-SPR,Current Donors,"Current - Last Gift $500-$1,000",13,124.23,0.7,27.7,151.93
+FY23-EM-SPR,Lapsed Donors,Lapsed Donors,794,7.94,2.0,80.15,88.09
+FY23-EM-SPR,Current Donors,Current Donors,396,3.96,1.2,50.0,53.96
+FY23-DM-FYE,Never Donors,Never Donors,1094,1692.01,4.6,184.5,1876.51
+FY23-DM-FYE,Current Donors,Current - Last Gift Under $100,462,750.68,2.2,89.47,840.15
+FY23-DM-FYE,Lapsed Donors,Lapsed 2-4 Yrs,441,702.27,2.2,86.31,788.58
+FY23-DM-FYE,Current Donors,Current - Last Gift $100-$499,249,436.11,1.4,57.44,493.55
+FY23-DM-FYE,Lapsed Donors,Lapsed 1 Yr - Last Gift Under $100,245,450.74,1.4,56.84,507.58
+FY23-DM-FYE,Lapsed Donors,Lapsed 1 Yr - Last Gift $100+,103,211.71,0.9,35.49,247.2
+FY23-DM-FYE,Current Donors,"Current - Last Gift $500-$1,000",13,108.41,0.5,21.95,130.36
+FY23-EM-FYE,Never Donors,Never Donors,1634,16.34,2.0,80.45,96.79
+FY23-EM-FYE,Lapsed Donors,Lapsed Donors,786,7.86,1.2,49.08,56.94
+FY23-EM-FYE,Current Donors,Current Donors,392,3.92,0.9,34.5,38.42
+FY23-SM-FYE,General Public,General Public,,0.0,4.2,167.8,167.8
+FY23-GEN,Unsolicited,General Annual Giving,,0.0,0.0,0.0,0.0
+FY24-DM-ACQ,Acquisition (Rented List),Acquisition (Rented List),18000,16842.76,21.5,859.68,17702.44
+FY24-PO-FALL,Current Donors,Leadership - Current,32,21.21,27.1,1084.66,1105.87
+FY24-DM-FALL,Current Donors,Current - Last Gift Under $100,504,1177.65,5.7,227.93,1405.58
+FY24-DM-FALL,Current Donors,Current - Last Gift $100-$499,272,671.43,3.3,132.22,803.65
+FY24-DM-FALL,Current Donors,"Current - Last Gift $500-$1,000",21,141.44,0.7,28.66,170.1
+FY24-EM-FALL,Lapsed Donors,Lapsed Donors,1088,10.88,2.0,80.8,91.68
+FY24-EM-FALL,Current Donors,Current Donors,397,3.97,1.1,42.18,46.15
+FY24-EM-GT,Never Donors,Never Donors,1733,17.33,1.8,70.45,87.78
+FY24-EM-GT,Lapsed Donors,Lapsed Donors,952,9.52,1.2,47.71,57.23
+FY24-EM-GT,Current Donors,Current Donors,389,3.89,0.8,31.32,35.21
+FY24-SM-GT,General Public,General Public,,0.0,3.3,133.17,133.17
+FY24-DM-YE,Never Donors,Never Donors,1272,1730.89,4.2,168.08,1898.97
+FY24-DM-YE,Lapsed Donors,Lapsed 2-4 Yrs,659,925.17,2.4,96.72,1021.89
+FY24-DM-YE,Current Donors,Current - Last Gift Under $100,469,676.76,1.9,74.6,751.36
+FY24-DM-YE,Lapsed Donors,Lapsed 1 Yr - Last Gift Under $100,267,419.91,1.3,51.08,470.99
+FY24-DM-YE,Current Donors,Current - Last Gift $100-$499,257,434.88,1.2,49.92,484.8
+FY24-DM-YE,Lapsed Donors,Lapsed 1 Yr - Last Gift $100+,99,222.85,0.8,31.52,254.37
+FY24-DM-YE,Current Donors,"Current - Last Gift $500-$1,000",21,117.97,0.6,22.44,140.41
+FY24-EM-YE,Never Donors,Never Donors,1731,17.31,1.6,65.85,83.16
+FY24-EM-YE,Lapsed Donors,Lapsed Donors,939,9.39,1.1,44.87,54.26
+FY24-EM-YE,Current Donors,Current Donors,379,3.79,0.8,30.04,33.83
+FY24-SM-YE,General Public,General Public,,0.0,4.6,184.69,184.69
+FY24-PO-SPR,Current Donors,Leadership - Current,14,12.21,10.7,428.03,440.24
+FY24-PO-SPR,Lapsed Donors,Leadership - Lapsed,3,2.4,2.4,96.51,98.91
+FY24-DM-SPR,Current Donors,Current - Last Gift Under $100,457,913.31,7.6,304.21,1217.52
+FY24-DM-SPR,Current Donors,Current - Last Gift $100-$499,254,549.78,4.4,177.97,727.75
+FY24-DM-SPR,Current Donors,"Current - Last Gift $500-$1,000",20,88.0,0.8,32.44,120.44
+FY24-EM-SPR,Lapsed Donors,Lapsed Donors,921,9.21,2.3,91.4,100.61
+FY24-EM-SPR,Current Donors,Current Donors,371,3.71,1.2,48.76,52.47
+FY24-DM-FYE,Never Donors,Never Donors,1164,1515.51,4.2,167.26,1682.77
+FY24-DM-FYE,Lapsed Donors,Lapsed 2-4 Yrs,544,746.91,2.2,88.82,835.73
+FY24-DM-FYE,Current Donors,Current - Last Gift Under $100,443,629.22,1.9,76.04,705.26
+FY24-DM-FYE,Current Donors,Current - Last Gift $100-$499,247,364.02,1.3,51.25,415.27
+FY24-DM-FYE,Lapsed Donors,Lapsed 1 Yr - Last Gift Under $100,234,370.64,1.2,49.6,420.24
+FY24-DM-FYE,Lapsed Donors,Lapsed 1 Yr - Last Gift $100+,83,176.68,0.8,30.5,207.18
+FY24-DM-FYE,Current Donors,"Current - Last Gift $500-$1,000",20,121.31,0.6,22.53,143.84
+FY24-EM-FYE,Never Donors,Never Donors,1798,17.98,1.9,74.31,92.29
+FY24-EM-FYE,Lapsed Donors,Lapsed Donors,909,9.09,1.2,47.46,56.55
+FY24-EM-FYE,Current Donors,Current Donors,367,3.67,0.8,31.09,34.76
+FY24-SM-FYE,General Public,General Public,,0.0,4.5,178.76,178.76
+FY24-GEN,Unsolicited,General Annual Giving,,0.0,0.0,0.0,0.0
+FY25-DM-ACQ,Acquisition (Rented List),Acquisition (Rented List),18000,15097.37,18.9,754.99,15852.36
+FY25-PO-FALL,Current Donors,Leadership - Current,30,39.36,18.8,750.61,789.97
+FY25-DM-FALL,Current Donors,Current - Last Gift Under $100,461,1031.1,5.3,213.08,1244.18
+FY25-DM-FALL,Current Donors,Current - Last Gift $100-$499,294,668.93,3.6,143.14,812.07
+FY25-DM-FALL,Current Donors,"Current - Last Gift $500-$1,000",29,152.44,0.8,32.15,184.59
+FY25-EM-FALL,Lapsed Donors,Lapsed Donors,1222,12.22,2.3,93.52,105.74
+FY25-EM-FALL,Current Donors,Current Donors,348,3.48,1.0,40.94,44.42
+FY25-EM-GT,Never Donors,Never Donors,1914,19.14,1.8,71.61,90.75
+FY25-EM-GT,Lapsed Donors,Lapsed Donors,1077,10.77,1.2,49.04,59.81
+FY25-EM-GT,Current Donors,Current Donors,342,3.42,0.7,29.22,32.64
+FY25-SM-GT,General Public,General Public,,0.0,3.8,150.29,150.29
+FY25-DM-YE,Never Donors,Never Donors,1201,1847.84,4.1,164.0,2011.84
+FY25-DM-YE,Lapsed Donors,Lapsed 2-4 Yrs,690,1098.05,2.6,102.73,1200.78
+FY25-DM-YE,Current Donors,Current - Last Gift Under $100,425,716.91,1.8,70.96,787.87
+FY25-DM-YE,Current Donors,Current - Last Gift $100-$499,278,477.12,1.3,53.33,530.45
+FY25-DM-YE,Lapsed Donors,Lapsed 1 Yr - Last Gift Under $100,276,480.16,1.3,53.09,533.25
+FY25-DM-YE,Lapsed Donors,Lapsed 1 Yr - Last Gift $100+,89,220.12,0.8,30.67,250.79
+FY25-DM-YE,Current Donors,"Current - Last Gift $500-$1,000",28,120.77,0.6,23.36,144.13
+FY25-EM-YE,Never Donors,Never Donors,1927,19.27,1.8,72.94,92.21
+FY25-EM-YE,Lapsed Donors,Lapsed Donors,1065,10.65,1.2,49.26,59.91
+FY25-EM-YE,Current Donors,Current Donors,337,3.37,0.7,29.26,32.63
+FY25-SM-YE,General Public,General Public,,0.0,3.5,139.4,139.4
+FY25-PO-SPR,Current Donors,Leadership - Current,6,5.77,4.4,175.0,180.77
+FY25-PO-SPR,Lapsed Donors,Leadership - Lapsed,3,3.95,2.5,98.75,102.7
+FY25-DM-SPR,Current Donors,Current - Last Gift Under $100,417,868.63,7.4,296.14,1164.77
+FY25-DM-SPR,Current Donors,Current - Last Gift $100-$499,266,598.73,4.9,196.15,794.88
+FY25-DM-SPR,Current Donors,"Current - Last Gift $500-$1,000",28,149.79,1.0,38.54,188.33
+FY25-EM-SPR,Lapsed Donors,Lapsed Donors,1055,10.55,2.2,86.99,97.54
+FY25-EM-SPR,Current Donors,Current Donors,334,3.34,1.0,41.21,44.55
+FY25-DM-FYE,Never Donors,Never Donors,1154,1675.87,5.4,214.86,1890.73
+FY25-DM-FYE,Lapsed Donors,Lapsed 2-4 Yrs,567,894.79,2.9,115.74,1010.53
+FY25-DM-FYE,Current Donors,Current - Last Gift Under $100,413,665.78,2.2,89.74,755.52
+FY25-DM-FYE,Current Donors,Current - Last Gift $100-$499,259,441.44,1.6,63.73,505.17
+FY25-DM-FYE,Lapsed Donors,Lapsed 1 Yr - Last Gift Under $100,250,412.96,1.6,62.21,475.17
+FY25-DM-FYE,Lapsed Donors,Lapsed 1 Yr - Last Gift $100+,77,179.26,0.8,33.0,212.26
+FY25-DM-FYE,Current Donors,"Current - Last Gift $500-$1,000",28,108.21,0.6,24.73,132.94
+FY25-EM-FYE,Never Donors,Never Donors,1983,19.83,2.1,82.64,102.47
+FY25-EM-FYE,Lapsed Donors,Lapsed Donors,1047,10.47,1.3,53.07,63.54
+FY25-EM-FYE,Current Donors,Current Donors,329,3.29,0.8,30.39,33.68
+FY25-SM-FYE,General Public,General Public,,0.0,4.2,168.12,168.12
+FY25-GEN,Unsolicited,General Annual Giving,,0.0,0.0,0.0,0.0
+FY26-DM-ACQ,Acquisition (Rented List),Acquisition (Rented List),18000,15304.95,17.2,689.53,15994.48
+FY26-PO-FALL,Current Donors,Leadership - Current,29,21.07,18.1,724.79,745.86
+FY26-DM-FALL,Current Donors,Current - Last Gift Under $100,456,1047.61,5.5,221.77,1269.38
+FY26-DM-FALL,Current Donors,Current - Last Gift $100-$499,270,658.84,3.5,139.47,798.31
+FY26-DM-FALL,Current Donors,"Current - Last Gift $500-$1,000",35,150.59,0.9,35.49,186.08
+FY26-EM-FALL,Lapsed Donors,Lapsed Donors,1334,13.34,2.8,113.45,126.79
+FY26-EM-FALL,Current Donors,Current Donors,361,3.61,1.1,45.29,48.9
+FY26-EM-GT,Never Donors,Never Donors,2145,21.45,2.2,88.44,109.89
+FY26-EM-GT,Lapsed Donors,Lapsed Donors,1180,11.8,1.4,57.65,69.45
+FY26-EM-GT,Current Donors,Current Donors,351,3.51,0.8,31.2,34.71
+FY26-SM-GT,General Public,General Public,,0.0,4.4,177.11,177.11
+FY26-DM-YE,Never Donors,Never Donors,1305,1858.41,4.0,160.28,2018.69
+FY26-DM-YE,Lapsed Donors,Lapsed 2-4 Yrs,748,1113.21,2.5,100.41,1213.62
+FY26-DM-YE,Current Donors,Current - Last Gift Under $100,428,634.42,1.7,66.01,700.43
+FY26-DM-YE,Current Donors,Current - Last Gift $100-$499,252,397.79,1.2,47.09,444.88
+FY26-DM-YE,Lapsed Donors,Lapsed 1 Yr - Last Gift Under $100,249,413.23,1.2,46.77,460.0
+FY26-DM-YE,Lapsed Donors,Lapsed 1 Yr - Last Gift $100+,102,214.22,0.8,30.96,245.18
+FY26-DM-YE,Current Donors,"Current - Last Gift $500-$1,000",35,125.67,0.6,23.76,149.43
+FY26-EM-YE,Never Donors,Never Donors,2124,21.24,1.8,73.27,94.51
+FY26-EM-YE,Lapsed Donors,Lapsed Donors,1161,11.61,1.2,49.12,60.73
+FY26-EM-YE,Current Donors,Current Donors,348,3.48,0.7,28.73,32.21
+FY26-SM-YE,General Public,General Public,,0.0,3.0,121.92,121.92
+FY26-PO-SPR,Current Donors,Leadership - Current,10,14.4,7.1,282.4,296.8
+FY26-PO-SPR,Lapsed Donors,Leadership - Lapsed,4,4.36,3.1,125.73,130.09
+FY26-DM-SPR,Current Donors,Current - Last Gift Under $100,422,1011.62,5.9,235.32,1246.94
+FY26-DM-SPR,Current Donors,Current - Last Gift $100-$499,248,594.46,3.7,146.54,741.0
+FY26-DM-SPR,Current Donors,"Current - Last Gift $500-$1,000",35,142.39,0.9,37.86,180.25
+FY26-EM-SPR,Lapsed Donors,Lapsed Donors,1154,11.54,2.6,105.84,117.38
+FY26-EM-SPR,Current Donors,Current Donors,341,3.41,1.1,45.37,48.78
+FY26-DM-FYE,Never Donors,Never Donors,1247,1856.23,5.3,210.47,2066.7
+FY26-DM-FYE,Lapsed Donors,Lapsed 2-4 Yrs,633,949.68,2.9,116.69,1066.37
+FY26-DM-FYE,Current Donors,Current - Last Gift Under $100,417,680.49,2.1,83.69,764.18
+FY26-DM-FYE,Current Donors,Current - Last Gift $100-$499,240,400.08,1.4,56.66,456.74
+FY26-DM-FYE,Lapsed Donors,Lapsed 1 Yr - Last Gift Under $100,214,399.43,1.3,52.69,452.12
+FY26-DM-FYE,Lapsed Donors,Lapsed 1 Yr - Last Gift $100+,91,197.09,0.8,33.9,230.99
+FY26-DM-FYE,Current Donors,"Current - Last Gift $500-$1,000",34,110.89,0.6,25.19,136.08
+FY26-EM-FYE,Never Donors,Never Donors,2191,21.91,1.7,69.97,91.88
+FY26-EM-FYE,Lapsed Donors,Lapsed Donors,1140,11.4,1.2,46.0,57.4
+FY26-EM-FYE,Current Donors,Current Donors,338,3.38,0.7,27.71,31.09
+FY26-SM-FYE,General Public,General Public,,0.0,5.4,217.55,217.55
+FY26-GEN,Unsolicited,General Annual Giving,,0.0,0.0,0.0,0.0

@@ -1,0 +1,12 @@
+# Mac system files
+.DS_Store
+
+# Jupyter autosave copies
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+
+# Editor and R files
+.idea/
+.Rhistory
